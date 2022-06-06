@@ -1,16 +1,35 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="128"/>
+</div>
 
-<!--
-**marilia-borgo/marilia-borgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+	<a href="https://www.linkedin.com/in/mar%C3%ADliaborgo/">
+ 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	</a>
+	<a href="https://www.instagram.com/m.a.r.i.l.i.a.b/">
+ 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+	</a>
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"width="30px"> I am Marília Borgo! </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Estagiária | Estudante  </h2>
+
+
+<div id="badges" align="center">
+  <div align="center">
+  <img src="img/computerpixel.jpg"/>
+</div>
+  
+<div id="aboutme" align="center">  
+  
+  ### Some facts about me:
+- 🔭 I’m currently studying Sistems for internet :grin:
+- 🌱 And working for Buser
+- 💬 Ask me about anything, I am happy to help :smile:
+- ⚡ Fun fact: I love to listen to music while coding!
+  </div>
+
+  
+  ### 🎧 What i'm listening:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jzflinh67c2fddwytoezqeq)
