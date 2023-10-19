@@ -29,7 +29,3 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ Fun fact: I love to listen to music while coding!
   </div>
-
-  
-  ### 🎧 What i'm listening:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jzflinh67c2fddwytoezqeq)
